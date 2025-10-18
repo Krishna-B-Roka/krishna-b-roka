@@ -4,7 +4,7 @@
 
 💼 I have hands-on experience as an **ERP trainee** and **accountant**, but my true interests lie in **IT-related fields**, especially in areas like **project management**, **usability testing**, and **digital transformation**.
 
-🌍 I'm planning to **build my career in Finland** after graduation, aiming to contribute to innovative tech-driven projects that make a difference.
+---
 
 🔧 Tech & Tools I’m familiar with:
 - ERP Systems
